@@ -1,2 +1,3 @@
-# Games
-The random small games I create in order to learn to code.
+# Space Invaders
+A game I built using the turtle module in Python.
+My first ever game in Python
